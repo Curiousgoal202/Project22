@@ -1,1 +1,2 @@
-# This is latest Git repo
+# This is latest Git repo.
+Great Method
